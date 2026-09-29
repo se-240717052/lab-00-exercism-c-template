@@ -1,5 +1,5 @@
-Full name:Haydar
-Student number:Özkan
+Full name:Haydar Özkan
+Student number:240717052
 Course:DATA STRUCTURES
 Lab number:00
 GitHub usernamese-240717052
